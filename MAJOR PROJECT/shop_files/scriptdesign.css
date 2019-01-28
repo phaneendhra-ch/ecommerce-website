@@ -1,0 +1,24 @@
+body{
+background-color:yellow;
+padding:50px;
+border:15px solid Navy;
+}
+img
+{
+border:5px solid green;
+}
+
+.details{
+color:indigo;
+background-color:red;
+font-size:18px;
+font-weight:bold;
+width:265px;
+height:30px;
+}
+
+.names{
+font-size:30px;
+color:MidnightBlue;
+font-weight:bold;
+}
